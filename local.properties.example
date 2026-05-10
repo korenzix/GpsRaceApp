@@ -1,0 +1,8 @@
+# Copy this file to local.properties and fill in your values.
+# local.properties is git-ignored — never commit it.
+
+sdk.dir=/path/to/your/Android/sdk
+
+# Get this key from https://console.cloud.google.com
+# Enable: Maps SDK for Android
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
